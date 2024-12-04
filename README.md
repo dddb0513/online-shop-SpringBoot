@@ -1,0 +1,2 @@
+# 202230440353 邓希尧
+## 核心代码在src/main/java目录下，其中scut.javawebonlineshop目录下包括pojo，controller，service，mapper四个文件夹，分别是mvc各层的代码，另一个resources目录下有application.properties配置文件。主运行文件是JavawebOnlineshopApplication。
